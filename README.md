@@ -1,5 +1,7 @@
 # HotelApp
 
+** - Project developed in the course **[Complete Angular Course 2024 - Master Angular in only 6 days](https://www.udemy.com/course/complete-angular-14-course-learn-frontend-development/)\*\* (Udemy).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
 ## Development server
